@@ -1,0 +1,16 @@
+Name: Srihari
+
+College: Saveetha School of Engineering
+Branch: Computer Science and Engineering
+
+Skills:
+- Java
+- Python
+- SQL
+- Docker
+- Kubernetes
+- Jenkins
+
+GitHub Learning Project
+
+Date: 19-06-2026
