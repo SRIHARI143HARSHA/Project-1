@@ -1,0 +1,11 @@
+Name: Teammate
+
+Skills:
+•⁠  ⁠Java
+•⁠  ⁠Python
+•⁠  ⁠HTML
+•⁠  ⁠CSS
+
+Project: Git Collaboration Demo
+
+Date: 19-06-2026
